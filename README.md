@@ -7,3 +7,6 @@
 1. The plan is to transform the website to a React application, with better user interface and better user experience.
 2. Some additional components and projects are needed to be updated. 
 3. A lot of hardware projects are to be added with reports in IEEE format. 
+
+## Direct Link to my portfolio Webpage.
+https://satiwari26.github.io/myWebsite/
