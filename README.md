@@ -9,4 +9,4 @@
 3. A lot of hardware projects are to be added with reports in IEEE format. 
 
 ## Direct Link to my portfolio Webpage.
-https://satiwari26.github.io/myWebsite/
+https://satiwari26.github.io/Portfolio-Webpage/
